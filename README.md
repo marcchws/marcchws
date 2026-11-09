@@ -1,6 +1,6 @@
 <a href="https://marcosbricches.pages.dev"><picture><source media="(max-width: 767px)" srcset="assets/header-phone.5bdfa97.png"><img src="assets/header.3a209f7.png" alt="Marcos Bricches, Product & Design Engineer. AI Agents · Front-end · Product Design"></picture></a>
 
-I design products and direct AI agents to build them, taking a client's problem to working software in the production stack, and I measure what the agents deliver.
+I design products and direct AI agents to build them, taking a client's problem to working software in the production stack, and I also measure and optimize what the agents deliver.
 
 Each of the four sample products below has its own brand and runs live on mocked data.
 
