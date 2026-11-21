@@ -1,40 +1,14 @@
-<a href="https://marcosbricches.pages.dev"><picture><source media="(max-width: 767px)" srcset="assets/header-phone.5bdfa97.png"><img src="assets/header.3a209f7.png" alt="Marcos Bricches, Product & Design Engineer. AI Agents · Front-end · Product Design"></picture></a>
+<a href="https://marcosbricches.pages.dev"><picture><source media="(max-width: 767px)" srcset="assets/header-phone.ef5e70e.png"><img src="assets/header.d6a7c42.png" alt="Marcos Bricches, Product Design Engineer"></picture></a>
 
-I design products and direct AI agents to build them, taking a client's problem to working software in the production stack, and I also measure and optimize what the agents deliver.
+I take products end to end, from research and strategy to brand, a live product and its evaluation, with AI agents speeding up every stage and building what I specify.
 
-Each of the four sample products below has its own brand and runs live on mocked data.
+### Arrimo
 
-### Racecraft
+<a href="https://marcosbricches.pages.dev/work/arrimo/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/arrimo-dark.a8a7a1d.png"><img src="assets/arrimo-light.6299f09.png" alt="Arrimo's launch page, Prazo à vista., on a desktop and a phone: the claim in analysis on day 9 of 30, with the clock paused and paid states beside it"></picture></a>
 
-<a href="https://racecraft-app.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/racecraft-dark.409adde.png"><img src="assets/racecraft-light.f43ca9f.png" alt="Racecraft on a desktop and a phone: today's 6 × 800 m intervals with the workout shape, and the plan adjusted after a missed tempo"></picture></a>
+My end-to-end case study for a fictional large insurer: a claim follow-up on the 30-day clock of Brazil's insurance contract law. I carried it from research on public complaints through strategy, brand, product, launch and evaluation, with AI agents I set up speeding up every stage. Only the company is fictional; the rules, figures and complaints are real and cited.
 
-A training plan app for amateur runners. It builds a plan toward one race, reads each run back from the watch and moves the weeks around when a session is missed.
-
-[Live demo](https://racecraft-app.pages.dev) · [Case study](https://marcosbricches.pages.dev/work/racecraft/) · [Code](https://github.com/marcchws/racecraft)
-
-### Ladeira
-
-<a href="https://ladeira.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ladeira-dark.4f5f9c3.png"><img src="assets/ladeira-light.cb37fd2.png" alt="Ladeira's launch page on a desktop and a phone: the L1 e-bike on a hilltop at sunset under the Reserve bar"></picture></a>
-
-The launch site of a city e-bike made for the hills of Belo Horizonte, with a configurator that takes a refundable R$ 300 reservation.
-
-[Live demo](https://ladeira.pages.dev) · [Case study](https://marcosbricches.pages.dev/work/ladeira/) · [Code](https://github.com/marcchws/ladeira)
-
-### Negativo
-
-<a href="https://negativo.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/negativo-dark.dbb09f3.png"><img src="assets/negativo-light.0030510.png" alt="Negativo on a desktop and a phone: today's schedule with the next ropes session, credits left and classes with spots left"></picture></a>
-
-The booking app of a climbing gym in Rio. Classes with waitlists, open-climb slots, passes, a waiver on the first visit and checkout by credits, Pix or card.
-
-[Live demo](https://negativo.pages.dev) · [Case study](https://marcosbricches.pages.dev/work/negativo/) · [Code](https://github.com/marcchws/negativo)
-
-### Noonday
-
-<a href="https://noonday.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/noonday-dark.849e1ab.png"><img src="assets/noonday-light.08d782c.png" alt="Noonday on a desktop and a phone: the overview with fleet output, open jobs, crews and alerts over the Needs you queue"></picture></a>
-
-An operations dashboard for solar installers. Jobs, crews and the output of every installed system feed one queue of what needs the manager today.
-
-[Live demo](https://noonday.pages.dev) · [Case study](https://marcosbricches.pages.dev/work/noonday/) · [Code](https://github.com/marcchws/noonday)
+[Case study](https://marcosbricches.pages.dev/work/arrimo/) · [Live demo](https://arrimo.pages.dev) · [Brandbook (PDF)](https://marcosbricches.pages.dev/work/arrimo/arrimo-livro-da-marca.pdf)
 
 <br>
 
