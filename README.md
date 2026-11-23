@@ -10,6 +10,8 @@ My end-to-end case study for a fictional large insurer: a claim follow-up on the
 
 [Case study](https://marcosbricches.pages.dev/work/arrimo/) · [Live demo](https://arrimo.pages.dev) · [Brandbook (PDF)](https://marcosbricches.pages.dev/work/arrimo/arrimo-livro-da-marca.pdf)
 
+All my case studies, each from research to a live product: [marcosbricches.pages.dev](https://marcosbricches.pages.dev)
+
 <br>
 
 <a href="https://marcosbricches.pages.dev"><img src="assets/footer.07799c5.png" alt="marcosbricches.pages.dev"></a>
